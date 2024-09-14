@@ -1,0 +1,5 @@
+I started looking for the parchment. For this I tries using the tree command. But i could not find it. So I manually opened individual files and then found the parchment. From this parchment i got a code aHR0cHM6Ly9naXRo.
+
+Then I used git checkout <branch name> to go through the realms.
+I used the grep function to find the filenames of herbs which have both "holy" and 'good" inside it.After a bit of letter rearrangements and removing vowels i found the holys pell.
+Honestly i used online sources to decode the final Code.
